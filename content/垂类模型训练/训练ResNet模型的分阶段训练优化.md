@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-11-11T01:44:08.175Z
-modified: 2026-11-11T06:24:32.626Z
+modified: 2026-11-17T00:57:55.987Z
 ---
 
 在训练 ResNet 模型时，可以采用两个阶段训练（Two-stage Training），但并不是必须的。是否有必要，主要取决于使用的是预训练 ResNet，还是从零开始训练，以及数据集的规模。
